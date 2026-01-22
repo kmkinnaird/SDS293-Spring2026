@@ -1,2 +1,2 @@
-# SDS293-Fall2022
-Syllabus for "Modeling for Machine Learning" for Fall 2022
+# SDS293-Spring2026
+Syllabus for "Modeling for Machine Learning" for Spring 2026
