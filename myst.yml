@@ -1,0 +1,28 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: c9d0e7bd-e470-4e8d-9ec9-9f5d68298a21
+  title: SDS 293 - Modelling for Machine Learning
+  description: Syllabus for SDS 293
+  keywords: Machine Learning, Learning, Pedagogy
+  authors: Katherine M. Kinnaird
+  github: https://github.com/kmkinnaird/SDS293-Spring2026
+  logo: SDS293.png
+  root: intro
+  toc:
+    - file: logistics
+    - file: assignments
+    - file: resources
+    - file: honorcode
+    - file: grading
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+  exports:
+    - format: pdf
+      template: lapreprint-typst
+      output: exports/SDS293-Syllabus.pdf
+      id: Syllabus-pdf
+site:
+  template: book-theme
+  options:
+      logo: SDS293.jpg
+
