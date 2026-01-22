@@ -3,7 +3,7 @@
 To prepare students to tackle the course’s motivating questions - especially What habits of mind do we need to develop to become machine learning practitioners? -  there are a variety of assignments in this course. Each week will be a mix of reading about machine learning topics, discussing and debating concepts, deriving machine learning theory from existing knowledge, and constant reflection about our learning and professional development. All due dates are posted on the Detailed Course Schedule and are due on the stated dates AOE (anywhere on earth). 
 
 :::{note}
-The [Detailed Course Schedule](https://docs.google.com/document/d/10jiN2kkTw2rwmtb39V07HUacI77nprd44uLDCwR2yeM/edit) lists the best by dates for the course. To view it, please log into your **Smith** account. 
+The [Detailed Course Schedule](https://docs.google.com/document/d/1TZUqJ4B2UpMo-x9xRmjFAw6R7p1Rt3ilLCrDMzPCNoY/edit?tab=t.0) lists the best by dates for the course. To view it, please log into your **Smith** account. 
 :::
 
 ## Assignments
@@ -35,20 +35,9 @@ These problems are based on completion (ie. you get the credit or not) based on 
 
 Each week, you will have 2 group problem sets, a lab and an individual problem set due each week. Due to the calendar, we will have a change up to the weekly schedule following the thanksgiving break
 
-#### Weekly Schedule - Before Thanksgiving
+#### Weekly Schedule - 
 
-Before the Thanksgiving break, the weekly flow will operate as follows: 
-
-| Day    | Course Preparation and/or Activity | Due Date |
-| ---------- | ----------- | ----------- |
-| Monday     | Lab in class | GPsets from the previous week |
-| Wednesday  | GPset in class | Lab from Monday & Starred Problem|
-| Friday     | GPset in class |  Recommended: reflect in your engagement journal|
-
-
-#### Weekly Schedule - After Thanksgiving
-
-Before the Thanksgiving break, the weekly flow will operate as follows: 
+This course follows a predictable rhythm. The weekly flow will operate as follows: 
 
 | Day    | Course Preparation and/or Activity | Due Date |
 | ----------- | ----------- | ----------- |
@@ -57,7 +46,7 @@ Before the Thanksgiving break, the weekly flow will operate as follows:
 | Friday     | Lab in Class | GPsets from this week |
 
 :::{note}
-The [Detailed Course Schedule](https://docs.google.com/document/d/10jiN2kkTw2rwmtb39V07HUacI77nprd44uLDCwR2yeM/edit?usp=sharing) lists the best by dates for the course. To view it, please log into your **Smith** account. 
+The [Detailed Course Schedule](https://docs.google.com/document/d/1TZUqJ4B2UpMo-x9xRmjFAw6R7p1Rt3ilLCrDMzPCNoY/edit?tab=t.0) lists the best by dates for the course. To view it, please log into your **Smith** account. 
 :::
 
 ### Workload

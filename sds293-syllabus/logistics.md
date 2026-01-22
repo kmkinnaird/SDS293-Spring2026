@@ -2,7 +2,7 @@
 
 ## Class Meeting Times
 
-The course meets three times per week on Mondays, Wednesdays, and Fridays in Sabin-Reed 301 from 9:25am to 10:15am. In supporting our course community, students should make every effort to be at our course meetings on time.
+The course meets three times per week on Mondays, Wednesdays, and Fridays in Bass 002 from 9:25am to 10:15am. In supporting our course community, students should make every effort to be at our course meetings on time.
 
 :::{note}
 For accessibility reasons, we kindly ask that you refrain from wearing any scented products in class. 
@@ -44,7 +44,37 @@ Failure to respect this policy will result in an email to both the class dean an
 
 If I am unwell and/or experiencing any symptoms of COVID, class will be held on zoom. If this happens, I will send a slack message on the #general channel using the @everyone mention. Using @everyone should send an email to your inbox. 
 
-If the college pivorts to remote learning, the course should be able to remain largely remain unchanged. The structure of this course is similar to one that I used in Spring 2021 for _Modeling for Machine Learning._ That course was fully online, and students had positive comments on this format. 
+If the college pivorts to remote learning, the course should be able to remain largely remain unchanged. The structure of this course is similar to one that I used in Spring 2021 for _Modeling for Machine Learning._ That course was fully online, and students had positive comments on this format. This course was run in person in Fall 2022 with this format, and students continued to reflect positively on this course structure. 
+
+### Student Comments and Advice
+
+This is the third running of my version of SDS 293, and I wanted to share comments and advice from machine learning explorers who have taken the first two versions of the course. It is my hope that these comments and advice will prove helpful to you this semester: 
+
+> Prioritize understanding the pencasts. If you want a deeper understanding of the concepts, do the readings, but don't try to understand every sentence.
+
+> Don't get freaked out by the readings! It'll all make sense while you're completing the group problems sets and the labs
+
+> This course is great if you are interested in applications of statistics, make sure to stay on top of assignments.
+
+> Ask lots of questions! You are not the only confused one
+
+> You will get through the linear algebra part, the payoff is worth it. I would also say that for the final project, all of the papers are confusing, just read it and talk to the professor about it and you will understand
+
+> This class is an amazing introduction to machine learning methods for SDS students. You will be introduced to all of the main ideas and topics in machine learning so that you will feel prepared to learn more about them in the future as you will have been exposed to them and understand what the goal is. 
+
+> It is important to do all the reading and watch all the pencast before going to class, because they help a lot to be able to complete the assignments
+
+> This class will be difficult at first, but then the ideas really come together, and it's kind of fun. Understanding the linear algebra and probability behind machine learning techniques is extremely helpful and translates well into other math classes.
+
+> Definitely take the class! The strategy I recommend for success is to be engaged and ask questions during class times when you work on the group problem sets.
+
+> The topics are fun and I personally would really want to learn more. You shouldn't get hung up on complicated math stuff in the materials but appreciate the general idea of the concept. It would be really helpful to work in a group to help each other out. Be prepared every time before coming into the class as it's adopting a flipped classroom mode
+
+>  The readings were helpful, the pencasts were very well done, and I really liked being able to rewatch them as many times as necessary. Class time was always used very effectively and the brief recap of content at the start was also really helpful. The problem sets were probably the most crucial to my understanding of the material, and I really liked not having to work on them individually. Feedback on assignments was very thoughtful and I liked having access to the instructor's solution so I could see what I could have done better even if I didn't lose any points. I used to think I didn't like flipped classrooms, but after this class I'm starting to think I might have just never been in a flipped classroom that was so well executed before.
+
+> I really appreciated the flexibility systems. I also liked the flipped classroom thing and using class time to work on the group problem sets with classmates. Without those activities, I don't think I would really understand the topics because in the readings and videos, the concepts feel very abstract
+
+>The pencasts were great! Diving headfirst into the readings could be daunting, so the recordings were nice intros/overviews for centering what was happening in the text. Also appreciated the reading questions in the schedule for the same reason. Also big fan of the starred problem –– helpful for evaluating my understanding in a low–stress way. Problem sets were also very effective for discussing ideas and putting them in practice
 
 ## Communication
 
@@ -56,10 +86,10 @@ In addition to our synchronous meetings, our class will make of electronic commu
 - **Slack Emojis:** At times, I will ask you to emoji a message to show that you have read the message. This is a quick way for you to signal that you read it. If there's something that you have a question about in a "please emoji" message, please use the threading function for that message or send me a direct message on slack. 
 
 :::{note}
-Please sign up for [our slack site](http://sds-293-01-202301.slack.com/), add a profile picture, and introduce yourself with your name and a fun-fact about yourself on the #intros channel. After signing up, please determine how and where you will get notifications from slack. 
+Please sign up for [our slack site](https://sds-293-01-202603.slack.com/), add a profile picture, and introduce yourself with your name and a fun-fact about yourself on the #intros channel. After signing up, please determine how and where you will get notifications from slack. 
 :::
 
-Please note that on a typical workday, I leave my office just after 5:00pm. This means that emails and slack messages sent after 5:00pm will likely be received on the next business day. Similarly e-communication sent on the weekend will likely not be received until Monday. 
+Please note that on a typical workday, I leave my office just after 4:30pm. This means that emails and slack messages sent after 4:00pm will likely be received on the next business day. Similarly e-communication sent on the weekend will likely not be received until Monday. 
 
 
 ## Course Resources 
@@ -85,7 +115,7 @@ There are also a wealth of machine learning resources online and at the Library.
 
 ## Instructor Information
 
-The instructor for this course is Katherine Kinnaird and I use she/her pronouns. My office is room 218 Bass Hall. The **best way** to reach me is on **slack.** If you need to email me, my email is kkinnaird@smith.edu.  
+The instructor for this course is Katherine Kinnaird and I use she/her pronouns. My office is room 108 Bass Hall. The **best way** to reach me is on **slack.** If you need to email me, my email is kkinnaird@smith.edu.  
 
 ### Student hours
 
@@ -94,16 +124,15 @@ My student hours are time blocked in my calendar for you! Please drop by either 
 :::{note}
 Student hours will be: 
 
- - Thursdays from 8:45am to 10:15am 
- - Fridays from 1:30pm to 3:00pm
+ - Wednesdays from 10:30am to Noon
+ - Fridays from 3:00pm to 4:00pm
  - By [appointment](https://bit.ly/Kinnaird-Appts)
 :::
 
 Below is an incomplete list of great reasons to hangout in gather before or after class or to make an appointment:    
  - You haven’t had the chance to chat with me yet   
  - You want to see what my office looks like 
- - You have a question on a reading, assignment, or activity   
- - You heard that that my office mascot is a sheep   
+ - You have a question on a reading, assignment, or activity    
  - You want to share about the course, your time at Smith, or about yourself   
  - You read something about machine learning, computer science, statistics, or math that you have questions about   
  - You are thinking about what you want to do after Smith

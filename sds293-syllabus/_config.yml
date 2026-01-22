@@ -4,7 +4,7 @@
 title: SDS 293 - Modelling for Machine Learning
 author: Katherine M. Kinnaird
 logo: SDS293.png
-copyright: "2022"
+copyright: "2026"
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -18,7 +18,7 @@ latex:
 
 # Information about where the book exists on the web
 repository:
-  url: https://kmkinnaird.github.io/SDS293-Fall2022/intro.html  # Online location of your book
+  url: https://kmkinnaird.github.io/SDS293-Spring2026/intro.html  # Online location of your book
   path_to_book: _build/html # Optional path to your book, relative to the repository root
   branch: main   # Which branch of the repository should be used when creating links (optional)
 

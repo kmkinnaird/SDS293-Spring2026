@@ -4,7 +4,7 @@ Just like beginning a project, we begin this course with nothing completed yet; 
 
 ## Grading Practicalities
 
-The 1000 possible points for the course are distributed as follows:  
+This class uses points as the method for evaluation. There are more than 1000 possible points in the course with small "cushions" built in along the way. The 1000 points that you are working to accumulate for your final grade are distributed as follows:  
 
 1. **Group Problem Sets:** 522 total points - 
    - 24 group problem sets, each with 18 possible points, for a max total of 342
@@ -56,7 +56,7 @@ Each week, there are three deadlines:
 2. Starred Problems 
 3. Group Psets
 
-All work is **due at 9am** on the date listed on the [Detailed Course Schedule](https://docs.google.com/document/d/10jiN2kkTw2rwmtb39V07HUacI77nprd44uLDCwR2yeM/edit). This is a great moment to note these dates your system for keeping track of your work (ie. planner, calendar, etc). (If you want to really stretch here, do this for all assignments in all your courses.) 
+All work is **due at 9am** on the date listed on the [Detailed Course Schedule](https://docs.google.com/document/d/1TZUqJ4B2UpMo-x9xRmjFAw6R7p1Rt3ilLCrDMzPCNoY/edit?tab=t.0). This is a great moment to note these dates your system for keeping track of your work (ie. planner, calendar, etc). (If you want to really stretch here, do this for all assignments in all your courses.) 
 
 
 #### Flexibility

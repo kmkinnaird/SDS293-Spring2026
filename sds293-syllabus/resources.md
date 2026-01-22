@@ -4,7 +4,7 @@ Here is a list of additional resources supporting our class. Information about y
 
 ## Inclusivity for all students
 
-Smith is committed to providing support services and reasonable accommodations to all students with disabilities. Please inform me early in the term if there are aspects of the course that need to be modified to serve your learning, health, or person. You may speak with me after class, during student hours, or during an appointment. To request an accommodation, please register with the Disability Services Office at the beginning of the semester. To begin the process, either call 413-585-2071 or email ods@smith.edu.
+Smith is committed to providing support services and reasonable accommodations to all students with disabilities. Please inform me early in the term if there are aspects of the course that need to be modified to serve your learning, health, or person. You may speak with me after class, during student hours, or during an appointment. To request an accommodation, please register with the Accessibility Resource Center at the beginning of the semester. To begin the process, either call 413-585-2071 or email arc@smith.edu.
 
 Students in need of short-term academic advice or support can contact your class dean in the Dean of the College office. If you require some accommodation for religious or cultural purposes, please do not hesitate to let me know. 
 
