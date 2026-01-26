@@ -41,9 +41,9 @@ This course follows a predictable rhythm. The weekly flow will operate as follow
 
 | Day    | Course Preparation and/or Activity | Due Date |
 | ----------- | ----------- | ----------- |
-| Monday     | GPset in class | Lab from the previous week & Starred Problem |
-| Wednesday     | GPset in class | Recommended: reflect in your engagement journal |
-| Friday     | Lab in Class | GPsets from this week |
+| Wednesday     | GPset in class | Lab from the previous week & Starred Problem |
+| Friday     | GPset in class | Recommended: reflect in your engagement journal |
+| Monday     | Lab in Class | GPsets from this week |
 
 :::{note}
 The [Detailed Course Schedule](https://docs.google.com/document/d/1TZUqJ4B2UpMo-x9xRmjFAw6R7p1Rt3ilLCrDMzPCNoY/edit?tab=t.0) lists the best by dates for the course. To view it, please log into your **Smith** account. 
