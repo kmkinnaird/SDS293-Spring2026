@@ -124,18 +124,23 @@ My student hours are time blocked in my calendar for you! Please drop by either 
 :::{note}
 Student hours will be: 
 
- - Wednesdays from 10:30am to Noon
+ - Mondays from 10:30am to Noon
  - Fridays from 3:00pm to 4:00pm
  - By [appointment](https://bit.ly/Kinnaird-Appts)
 :::
 
-Below is an incomplete list of great reasons to hangout in gather before or after class or to make an appointment:    
+Below is an incomplete list of great reasons to go to student hours or to make an appointment:    
  - You haven’t had the chance to chat with me yet   
  - You want to see what my office looks like 
  - You have a question on a reading, assignment, or activity    
  - You want to share about the course, your time at Smith, or about yourself   
  - You read something about machine learning, computer science, statistics, or math that you have questions about   
  - You are thinking about what you want to do after Smith
+
+#### Weekly Tea
+
+In addition to student hours, I will also be hosting a weekly tea on Wednesdays from 3pm to 4pm. This is **not** the same as 
+student hours, but rather a time to gather and enjoy a cup of tea. Please invite your friends! 
 
 ### Appointments
 
