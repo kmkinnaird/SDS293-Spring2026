@@ -26,7 +26,7 @@ The work you submit should be your own and created by you, unless explicitly lis
 
 - Do not share nor give your work with other students; instead, offer to discuss the big ideas of the task at hand. 
 - Do not look at someone else’s work (including online solutions); instead, ask if you could talk with them about your ideas and share where you are getting stuck.
-- Acknowledge those you talk or work with at the top of **every** assignment. I will not dock points for getting acknowledged help from others. If you generate a solution or an argument with someone, in addition to acknowledging that person, recreate the solution or argument on your own in your own words. 
+- Acknowledge those you talk or work with at the top of **every** assignment, **including any generative AI tools**. I will not dock points for getting acknowledged help from others. If you generate a solution or an argument with someone, in addition to acknowledging that person, recreate the solution or argument on your own in your own words. 
 
 If you think you may have crossed the line between helping and copying, please talk to me. Do not let me discover that the line was crossed. If a violation of Academic Integrity is suspected, the student will be informed and will be given the opportunity to meet with the instructor. After the meeting, the instructor will decide if further consideration by the AIB is merited, and if so, the suspected violation will be reported to the AIB by the instructor. 
 
